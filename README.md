@@ -4,7 +4,9 @@ Este repositório possui um estudo que faz parte do MVP da sprint de "Machine Le
 2) MVP_PZT_Machine Learning & Analytics.ipynb - relatório com os códigos, gráficos e reflexões da pesquisadora sobre os dados apresentados
 
 Objetivo do Estudo:
-O relatório apresenta um estudo sobre a avaliação das estatísticas públicas segundo a pontuação de abertura de dados. O objetivo principal é classificar os dados estatísticos de um país em três categorias (variável "target"), com base em cinco características ligadas à abertura de dados:
+O relatório apresenta um estudo sobre a avaliação das estatísticas públicas segundo a pontuação de abertura de dados. O objetivo principal é treinar um modelo de classificação em Machine Learning e classificar os dados estatísticos de um país em três categorias (variável "target"), com base em cinco características ligadas à abertura de dados:
+
+Em aprendizagem automática e nas estatísticas, a classificação estatística é o problema de identificar a qual de um conjunto de categorias pertence em uma nova observação, com base em um conjunto de dados contendo observações cuja categoria de adesão é conhecida.
 
 1) Disponibilidade de dados em formato legível por máquina
 2) Disponibilidade de dados em formato não proprietário
